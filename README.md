@@ -35,7 +35,5 @@ A página apresenta:
 
 1. Clone este repositório:  
    ```bash
-  git clone https://github.com/lucasfelipe01/clone-CocaCola.git
-
-
+   git clone https://github.com/lucasfelipe01/clone-CocaCola.git
 
